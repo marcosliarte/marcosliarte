@@ -1,26 +1,31 @@
-# Olá, sou o Marcos Antônio Liarte Neves 👋
+# Hello, I am Marcos Antônio Liarte Neves 👋
 
-## Sobre mim
+## About me
 
-Formado em Sistemas de Informação pela UFAM - Universidade Federal do Amazonas. Trabalho há 11 anos em um escritório de contabilidade, onde cuido da infraestrutura de rede e manutenção de equipamentos.
+Graduated in Information Systems from UFAM - Federal University of Amazonas. I have been working for 11 years in an accounting office, where I take care of network infrastructure and equipment maintenance.
 
 ### Hobbies
 
-- Praticar esportes, desde vôlei até slackline.
+Practicing sports, from volleyball to slackline.
 
-### Minhas Estatísticas no GitHub
+### My GitHub Stats
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosliarte&show_icons=true&theme=radical)
 
-### Commits Diários
+### Daily Commits
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcosliarte&theme=radical)](https://git.io/streak-stats)
 
-### Linguagens mais usadas
+### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosliarte&layout=compact)
 
-### Tecnologias e Ferramentas
+### Featured Projects
+
+- [Project 1](https://github.com/marcosliarte/projeto1): Brief description of the project.
+- [Project 2](https://github.com/marcosliarte/projeto2): Brief description of the project.
+
+### Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -32,11 +37,11 @@ Formado em Sistemas de Informação pela UFAM - Universidade Federal do Amazonas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Meu Setup
+### My Setup
 
 - **Laptop:** Dell G15 i5
 
-### Contato
+### Contact
 
 - Email: [marcos.liarte.neves@gmail.com](mailto:marcos.liarte.neves@gmail.com)
 - LinkedIn: [Marcos Antônio Liarte](https://www.linkedin.com/in/marcos-antonio-liarte/).
