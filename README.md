@@ -38,14 +38,5 @@ Formado em Sistemas de Informação pela UFAM - Universidade Federal do Amazonas
 
 ### Contato
 
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-
-### Últimos Artigos do Blog
-
-- [Artigo 1](https://seublog.com/artigo1): Resumo breve do artigo.
-- [Artigo 2](https://seublog.com/artigo2): Resumo breve do artigo.
-
-### Gráficos de Contribuição
-
-![Marcos' Contribution Graph](https://activity-graph.herokuapp.com/graph?username=marcosliarte&theme=react-dark)
+- Email: [seuemail@exemplo.com](mailto:marcos.liarte.neves@gmail.com)
+- LinkedIn: [Seu Perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcos-antonio-liarte/))
