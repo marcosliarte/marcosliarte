@@ -39,4 +39,4 @@ Formado em Sistemas de Informação pela UFAM - Universidade Federal do Amazonas
 ### Contato
 
 - Email: [marcos.liarte.neves@gmail.com](mailto:marcos.liarte.neves@gmail.com)
-- LinkedIn: [Seu Perfil]([[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcos-antonio-liarte/)])
+- LinkedIn: [Marcos Antônio Liarte](https://www.linkedin.com/in/marcos-antonio-liarte/).
