@@ -20,11 +20,6 @@ Practicing sports, from volleyball to slackline.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosliarte&layout=compact)
 
-### Featured Projects
-
-- [Project 1](https://github.com/marcosliarte/projeto1): Brief description of the project.
-- [Project 2](https://github.com/marcosliarte/projeto2): Brief description of the project.
-
 ### Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
