@@ -36,7 +36,14 @@ Practicing sports, from volleyball to slackline.
 
 - **Laptop:** Dell G15 i5
 
+### Featured Project
+
+#### [smartAgro](https://github.com/marcosliarte/smartAgro)
+
+Projeto smartAgro: uma solução para gerenciamento eficiente de recursos agrícolas.
+
 ### Contact
 
 - Email: [marcos.liarte.neves@gmail.com](mailto:marcos.liarte.neves@gmail.com)
 - LinkedIn: [Marcos Antônio Liarte](https://www.linkedin.com/in/marcos-antonio-liarte/).
+
