@@ -17,7 +17,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -e "s/\${{ github.actor }}/$(date '+%Y-%m-%d')/" README_template.md > README.md
+          sed -e "s/\${{ github.actor }}/$(date '+%Y-%m-%d')/" README.md > README.md
 
       - name: Commit and push if README.md is updated
         run: |
