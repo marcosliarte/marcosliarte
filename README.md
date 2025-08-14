@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Marcos Antônio Liarte Neves  
+# 👋 Hello, I'm Marcos Antônio Liarte Neves
 
-🎓 **Information Systems** graduate from **UFAM - Federal University of Amazonas**.  
-💼 11+ years of experience in an accounting office, handling **network infrastructure**, **equipment maintenance**, and developing digital solutions.  
-💻 Passionate about **software development** and continuous learning.  
-
----
-
-## 🚀 Skills & Technologies  
-- **Frontend:** HTML5, CSS3, JavaScript, React  
-- **Backend:** Node.js, PHP, TypeScript, Java, Kotlin  
-- **Databases:** MongoDB, SQLite  
-- **Others:** Git, GitHub, Agile (Scrum)  
+🎓 **Information Systems graduate** from the Federal University of Amazonas (UFAM).  
+💼 Over **11 years** of experience in an accounting office, managing **network infrastructure**, **equipment maintenance**, and developing **custom software solutions**.  
+💡 Passionate about **technology**, **sports**, and continuous learning.  
 
 ---
 
-## 📌 Featured Project  
-### [SmartAgro](https://github.com/marcosliarte/smartAgro)  
-A solution for efficient agricultural resource management, developed with **Kotlin**, **SQLite**, and Android native tools.
+## 📊 GitHub Insights
+
+![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosliarte&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=marcosliarte&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosliarte&layout=compact&theme=tokyonight)  
 
 ---
 
-## ⚡ Fun Facts  
-- I enjoy sports, from volleyball to slackline.  
-- Always exploring new tech ideas and automations.  
+## 🛠️ Technologies
+`HTML5` `CSS3` `JavaScript` `React` `Node.js` `Kotlin` `PHP` `TypeScript` `Java`
 
 ---
 
-## 📫 Contact Me  
-- **Email:** [marcos.liarte.neves@gmail.com](mailto:marcos.liarte.neves@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/marcos-antonio-liarte](https://www.linkedin.com/in/marcos-antonio-liarte/)  
+## 📌 Featured Project
+**[SmartAgro](https://github.com/marcosliarte/smartAgro)** – A smart solution for efficient agricultural resource management.
 
 ---
+
+## 📬 Contact
+✉️ **Email:** marcos.liarte.neves@gmail.com  
+🔗 **LinkedIn:** [Marcos Antônio Liarte](https://www.linkedin.com/in/marcos-antonio-liarte/)  
+
+---
+> 🚀 *"Code is not just my work, it’s my craft."*
+
 
 
