@@ -21,17 +21,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosliarte&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## 📌 Projetos em Destaque
-
-**[SmartAgro](https://github.com/marcosliarte/smartAgro)** – Aplicativo Android para gestão de recursos agrícolas desenvolvido em Kotlin e SQLite.
-
-<!-- Adicione mais projetos aqui conforme necessário
-**[Nome do Projeto](link)** – Breve descrição
--->
-
----
-
 ## 🎯 Atualmente
 
 - 🔭 Trabalhando em soluções personalizadas para o setor contábil
