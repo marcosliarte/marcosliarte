@@ -3,7 +3,6 @@
 🎓 Bacharel em Sistemas de Informação (UFAM)  
 💼 11+ anos de experiência em TI | Infraestrutura de Redes | Desenvolvimento de Software
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcosliarte&color=blueviolet&style=flat-square)
 
 ---
 
