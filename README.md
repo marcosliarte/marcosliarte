@@ -3,6 +3,8 @@
 🎓 Bacharel em Sistemas de Informação (UFAM)  
 💼 11+ anos de experiência em TI | Infraestrutura de Redes | Desenvolvimento de Software
 
+![Profile Views](https://komarev.com/ghpvc/?username=marcosliarte&color=blueviolet&style=flat-square)
+
 ---
 
 ## 🛠️ Stack Técnica
@@ -15,13 +17,18 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosliarte&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Projetos em Destaque
 
 **[SmartAgro](https://github.com/marcosliarte/smartAgro)** – Aplicativo Android para gestão de recursos agrícolas desenvolvido em Kotlin e SQLite.
+
+<!-- Adicione mais projetos aqui conforme necessário
+**[Nome do Projeto](link)** – Breve descrição
+-->
 
 ---
 
@@ -33,7 +40,26 @@
 
 ---
 
+## 🌍 Idiomas
+
+🇧🇷 **Português** – Nativo  
+🇺🇸 **Inglês** – Intermediário
+
+---
+
+## 💼 Experiência
+
+- **11+ anos** no setor contábil aplicando soluções de TI
+- Especialização em **infraestrutura de redes** e **manutenção de hardware**
+- Desenvolvimento de **software sob medida** para otimização de processos
+
+---
+
 ## 📬 Contato
 
 📧 marcos.liarte.neves@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcos-antonio-liarte/)
+
+---
+
+> 💬 *Interessado em colaborar ou trocar ideias sobre tecnologia? Entre em contato!*
