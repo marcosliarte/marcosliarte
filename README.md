@@ -7,10 +7,10 @@
 
 ## 🛠️ Stack Técnica
 
-**Frontend:** HTML5 • CSS3 • JavaScript • React  
-**Backend:** Node.js • PHP • TypeScript • Java • Kotlin  
+**Frontend:** JavaScript • React  
+**Backend:** Node.js • TypeScript • Java • Kotlin  
 **Databases:** MongoDB • SQLite  
-**Ferramentas:** Git • GitHub • Scrum
+**Ferramentas:** Git • GitHub
 
 ---
 
@@ -24,6 +24,14 @@
 ## 📌 Projeto em Destaque
 
 **[SmartAgro](https://github.com/marcosliarte/smartAgro)** – Aplicativo Android para gestão de recursos agrícolas desenvolvido em Kotlin e SQLite.
+
+---
+
+## 🎯 Atualmente
+
+- 🔭 Trabalhando em soluções personalizadas para o setor contábil
+- 🌱 Aprendendo novas tecnologias e aprimorando habilidades em desenvolvimento mobile
+- 💡 Aberto a colaborações e novos desafios
 
 ---
 
